@@ -2,7 +2,9 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+## Versão do Node js
+
+`v14.17.0`
 
 In the project directory, you can run:
 
