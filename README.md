@@ -1,14 +1,20 @@
-# Getting Started with Create React App
+# Projeto de Gestão
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Versão do Node js
+Ferramentas utilizadas no projeto.
+
+### Versão do Node js
 
 `v14.17.0`
 
-In the project directory, you can run:
+Versão do Nodejs utilizado no projeto.
 
-### `yarn start`
+### Styled Components
+`npm install --save styled-components`
+____
+
+### `npm start`
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
